@@ -1,0 +1,271 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 1300px;
+    height: 700vh;
+    margin: 0 auto;
+}
+.logo-box {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.main-box {
+    width: 104%;
+    margin-left: -25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(0deg, #98C3E8 8.84%, rgba(152, 195, 232, 0) 31.12%);
+}
+.client-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+.tech-box {
+    width: 20%;
+    align-items: center;
+    padding: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+}
+.biznes-box {
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: -200px;
+    width: 20%;
+    margin-top: 400px;
+    margin-left: 300px;
+    position: absolute;
+}
+.biz-hed {
+    margin-bottom: 20px;
+    margin-top: 40px;
+    color: #1F3F68;
+}
+.biz-tex {
+    margin-bottom: 30px;
+}
+.biz-but {
+    border: 0; background: white; color: #5A98D0;
+}
+.fa-arrow-right {
+    margin-left: 15px;
+}
+.prod-box {
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 700px;
+    margin-top: 650px;
+    width: 20%;
+    position: absolute;
+}
+.prod-hed {
+    color: #1F3F68;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.prod-tex {
+    color: #00000077;
+    margin-bottom: 30px;
+}
+.fp-box {
+    margin-top: 700px;
+    display: flex;
+    justify-content: center;
+}
+.fp-hed {
+    margin-bottom: 100px;
+    width: 20%;
+    color: #1F3F68;
+}
+.fp-tex {
+    width: 33%;
+    color: #00000077;
+}
+.sm-box {
+    margin-left: 250px;
+}
+.sm-hed {
+    position: absolute;
+    margin-top: -370px;
+    margin-left: 630px;
+    color: white;
+}
+.sm-tex {
+    position: absolute;
+    margin-top: -330px;
+    margin-left: 690px;
+    color: white;
+}
+.app-box {
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.tel-img {
+    margin-right: 90px;
+}
+.tel-hed {
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 35px;
+    color: white;
+}
+.tel-tex {
+    position: absolute;
+    margin-top: -350px;
+    margin-left: 35px;
+    color: white;
+}
+.car-hed {
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 550px;
+    color: white;
+}
+.car-tex {
+    position: absolute;
+    margin-top: -350px;
+    margin-left: 550px;
+    color: white;
+}
+.lcbox {
+    background: #5A98D0;
+    color: white;
+    border-top-left-radius: 200px;
+    height: 200vh;
+    width: 104%;
+    margin-top: 100px;
+    margin-left: -25px;
+}
+.bcbox {
+    display: flex;
+}
+.bched {
+    width: 15%;
+    margin-left: 200px;
+    margin-top: 80px;
+    margin-right: 150px;
+}
+.bctex {
+    width: 32%;
+    margin-top: 90px;
+    color: rgba(255, 255, 255, 0.589);
+}
+.lgbox {
+    margin-left: 200px;
+    margin-top: 100px;
+    
+}
+.lgbox1 {
+    display: flex;
+}
+.lgbox2 {
+    display: flex;
+}
+.one {
+    margin-right: 80px;
+    margin-bottom: 50px;
+}
+.line1 {
+    border-left: 1px solid #ffffff96;
+    position: absolute;
+    height: 18vh;
+    margin-left: 150px;
+}
+.line2 {
+    border-left: 1px solid #ffffff96;
+    position: absolute;
+    height: 18vh;
+    margin-left: 350px;
+}
+.line3 {
+    border-left: 1px solid #ffffff96;
+    position: absolute;
+    height: 18vh;
+    margin-left: 550px;
+}
+.two {
+    margin-right: 80px;
+    margin-bottom: 50px;
+}
+.three {
+    margin-right: 80px;
+    margin-bottom: 50px;
+}
+.four {
+    margin-right: 80px;
+    margin-bottom: 40px;
+}
+.line {
+    width: 65%;
+    margin-left: -30px;
+    margin-top: -20px;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #ffffff96;
+}
+.five {
+    margin-right: 80px;
+
+}
+.six {
+    margin-right: 80px;
+
+}
+.seven {
+    margin-right: 100px;
+
+}
+.more {
+    font-size: 20px;
+    margin-left: -20px;
+    margin-top: -5px;
+    background-color: #5A98D0;
+}
+.talkbox {
+    background-color: #316099;
+    margin-top: -750px;
+    width: 90%;
+    border-top-right-radius: 200px;
+    margin-left: -25px;
+    height: 120vh;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+}
+.talkhed {
+    margin: 100px 150px;
+    width: 30%;
+    margin-bottom: 50px;
+}
+.talktex {
+    width: 38%;
+    margin-left: 150px;
+    color: #ffffff96;
+}
+.talkbuton {
+    width: 220px;
+    background: #5A98D0;
+    border-radius: 10px;
+    margin-right: 150px;
+    margin-top: 150px;
+    border: 0;
+    color: rgba(255, 255, 255, 0.877);
+    height: 56px;
+}
+.afbox {
+    display: flex; 
+    margin-left: 100px;
+    position: absolute;
+    margin-top: -400px;
+    color: #ffffffe5;
+    line-height: 35px;
+}

@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 1300px;
+    height: 700vh;
+    margin: 0 auto;
+}
+.logo-box {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.babox {
+    width: 104%;
+    text-align: center;
+    margin-left: -25px;
+    height: 30vh;
+    color: white;
+    margin-top: 30px;
+    background: linear-gradient(253.6deg, #98D0FC 2.46%, #3481D7 93.24%);
+}
